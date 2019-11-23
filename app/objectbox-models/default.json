@@ -1,0 +1,92 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:8041358179999852682",
+      "lastPropertyId": "13:7384521028453716035",
+      "name": "dataHouse",
+      "properties": [
+        {
+          "id": "1:8173704206269801023",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:353358358196343445",
+          "name": "RFID_Tag",
+          "type": 9
+        },
+        {
+          "id": "3:7517478132600582018",
+          "name": "SKU_Number",
+          "type": 9
+        },
+        {
+          "id": "4:7320171240712744705",
+          "name": "Design_Number",
+          "type": 9
+        },
+        {
+          "id": "5:1569173891436530427",
+          "name": "Image_Name",
+          "type": 9
+        },
+        {
+          "id": "6:5416778991377080757",
+          "name": "Item_Status",
+          "type": 9
+        },
+        {
+          "id": "7:8817735970157143536",
+          "name": "Item_Type",
+          "type": 9
+        },
+        {
+          "id": "8:3354778590215595672",
+          "name": "Size",
+          "type": 9
+        },
+        {
+          "id": "9:3062098445452693511",
+          "name": "Gross_Weight",
+          "type": 9
+        },
+        {
+          "id": "10:5355550512521905146",
+          "name": "Net_Weight",
+          "type": 9
+        },
+        {
+          "id": "11:1811183995259012757",
+          "name": "Collection_Line",
+          "type": 9
+        },
+        {
+          "id": "12:3993292787599576844",
+          "name": "Metal_Type",
+          "type": 9
+        },
+        {
+          "id": "13:7384521028453716035",
+          "name": "Metal_Purity",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:8041358179999852682",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

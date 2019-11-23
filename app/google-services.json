@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103366757345",
+    "firebase_url": "https://invizio-solutions-llp.firebaseio.com",
+    "project_id": "invizio-solutions-llp",
+    "storage_bucket": "invizio-solutions-llp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103366757345:android:a1123fb70a10b1147ee0a0",
+        "android_client_info": {
+          "package_name": "com.example.inviziosolutionsllp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103366757345-5g9pp1lbq2kp2735tfl49173fjm7q2d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inviziosolutionsllp",
+            "certificate_hash": "6d34f2f8aa2223a0e1267f18cc69206a95500ab7"
+          }
+        },
+        {
+          "client_id": "103366757345-up0l4pcfn8n3g6kt0tkjk02q9pr3713a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZ2CStXP22GP9ZHtWAfpQy_fNo1lcTWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103366757345-up0l4pcfn8n3g6kt0tkjk02q9pr3713a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
