@@ -223,7 +223,7 @@ class MainActivity : AppCompatActivity() {
         })
         fab.setOnClickListener { view ->
             myRef.setValue("Hello, World!")
-            Snackbar.make(view, "Replace with your own action" +userBox.all.size, Snackbar.LENGTH_LONG)
+            Snackbar.make(view, "number of data points :" +userBox.all.size, Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
             listData =userBox.all
             for (i in 0..(listData.size)-1) {
