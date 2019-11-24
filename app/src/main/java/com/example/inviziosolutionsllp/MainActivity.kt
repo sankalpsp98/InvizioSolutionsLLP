@@ -222,7 +222,6 @@ class MainActivity : AppCompatActivity() {
             }
         })
         fab.setOnClickListener { view ->
-            myRef.setValue("Hello, World!")
             Snackbar.make(view, "number of data points :" +userBox.all.size, Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
             listData =userBox.all
